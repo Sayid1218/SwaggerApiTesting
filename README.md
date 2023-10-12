@@ -45,4 +45,4 @@ https://petstore.swagger.io/#/user/logoutUser
 #### Postman Documentations
 [Postman](https://web.postman.co/documentation/24594715-60df2812-f92f-408a-9e41-4f2ec7ef516e/publish?workspaceId=7b4e508f-1253-4e33-8843-0cc4fd3138d4)
 # Newman Report
-
+https://sayid1218.github.io/Performance_Testing_Project_1/Quick-solution.html/index.html
